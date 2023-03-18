@@ -1,4 +1,5 @@
 import './App.css';
+import FeatureB from "./FeatureB";
 
 function App() {
   return (
@@ -6,6 +7,7 @@ function App() {
       <header className="App-header">
         <h1>Test</h1>
       </header>
+      <FeatureB />
     </div>
   );
 }
